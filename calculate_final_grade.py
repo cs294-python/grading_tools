@@ -18,9 +18,9 @@ if total_points >= 90:
     print("You get an 'A'")
 elif total_points >= 80:
     print("You get an 'B'")
-elif total_points >= 80:
+elif total_points >= 70:
     print("You get an 'C'")
-elif total_points >= 80:
+elif total_points >= 60:
     print("You get an 'D'")
 else:
     print("You get an 'F'")
