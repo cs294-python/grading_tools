@@ -16,6 +16,7 @@ except:
     print("Please type in numeric values for points. Try again, you goon.")
     exit()
 
+"""
 # Check that points are within range.
 if assignment_points > 35:
     print("Please enter a value less than or equal to 35 for assignment points.")
@@ -23,6 +24,7 @@ if blog_points > 25:
     print("Please enter a value less than or equal to 25 for blog points.")
 if project_points > 50:
     print("Please enter a value less than or equal to 50 for project points.")
+    """
 
 # Calculate total points and determine letter grade
 total_points = assignment_points + blog_points + project_points # 35, 25, 50
