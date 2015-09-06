@@ -31,7 +31,7 @@ for username in github_usernames:
     # Navigate  inside
     os.chdir(clone_path)
     # Test the poem
-    with open("poetry/walt_whitman", 'r') as poem:
+    with open("poetry/walt_whitman", 'r') as poem: # TODO try-catch this
         poem_is_correct = True
         for line in poem:
             if "YOLO" in line:
