@@ -60,16 +60,16 @@ profiles = {
         "ask me about": "social network analysis"
         },
     "mkb0517": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "CS"
+        "boot os": "Linux Mint"
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
+        "de-noobification": False,
+        "astro": False,
         "game": True,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "Magic: the Gathering, sciency things, py-game (in about a month), dual-booting windows and linux, anything really"
         },
     "achang6": {
         "major": "ICS",
