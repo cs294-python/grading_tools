@@ -48,16 +48,16 @@ profiles = {
         "ask me about": "social network analysis"
         },
     "muku42": {
-        "major": "ICS",
+        "major": "Astronomy",
         "boot os": "OSX",
         "virtual os": None,
         "text editor": "Vim",
         "de-noobification": True,
         "astro": True,
         "game": True,
-        "ninja skills": True,
+        "ninja skills": False,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "things you've used your raspberry pi for"
         },
     "mkb0517": {
         "major": "CS"
@@ -120,28 +120,28 @@ profiles = {
         "ask me about": "social network analysis"
         },
     "klaguana": {
-        "major": "ICS",
+        "major": "astronomy",
         "boot os": "OSX",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
+        "de-noobification": False,
         "astro": True,
-        "game": True,
+        "game": False,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "pop punk"
         },
     "brennanblue": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "Econ",
+        "boot os": "Windows 10",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
-        "game": True,
+        "de-noobification": False,
+        "astro": False,
+        "game": False,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "Ending the Fed"
         },
     "nagatak": {
         "major": "ICS",
@@ -180,63 +180,63 @@ profiles = {
         "ask me about": "social network analysis"
         },
     "RoyGBivDash": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "Astronomy and Physics",
+        "boot os": "Windows",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
+        "de-noobification": False,
         "astro": True,
-        "game": True,
+        "game": False,
         "ninja skills": True,
-        "web": True,
-        "ask me about": "social network analysis"
+        "web": False,
+        "ask me about": "Do you really have a pet rabbit?"
         },
     "jasminks": {
-        "major": "ICS",
+        "major": "physics and astronomy, minor in math",
         "boot os": "OSX",
         "virtual os": None,
-        "text editor": "Vim",
-        "de-noobification": True,
+        "text editor": "Emacs",
+        "de-noobification": False,
         "astro": True,
-        "game": True,
+        "game": False,
         "ninja skills": True,
-        "web": True,
-        "ask me about": "social network analysis"
+        "web": False,
+        "ask me about": "Spectroscopy, cute cats and emacs"
         },
     "asttra": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "Biology and Astronomy",
+        "boot os": "ubuntu",
         "virtual os": None,
         "text editor": "Vim",
         "de-noobification": True,
         "astro": True,
-        "game": True,
-        "ninja skills": True,
-        "web": True,
-        "ask me about": "social network analysis"
+        "game": False,
+        "ninja skills": False,
+        "web": False,
+        "ask me about": "How did you start working for the USDA?"
         },
     "cv9828": {
-        "major": "ICS",
-        "boot os": "OSX",
-        "virtual os": None,
+        "major": "CS",
+        "boot os": "Windows 8.1",
+        "virtual os": "Ubuntu",
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
-        "game": True,
+        "de-noobification": False,
+        "astro": False,
+        "game": False,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "CS student"
         },
     "stphnzilch": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "Chemistry",
+        "boot os": "Ubuntu",
         "virtual os": None,
-        "text editor": "Vim",
+        "text editor": "Emacs",
         "de-noobification": True,
-        "astro": True,
+        "astro": False,
         "game": True,
-        "ninja skills": True,
-        "web": True,
+        "ninja skills": False,
+        "web": False,
         "ask me about": "social network analysis"
         },
     "joshuacw": {
