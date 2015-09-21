@@ -36,16 +36,16 @@ profiles = {
         "ask me about": "social network analysis"
         },
     "pbbarnes": {
-        "major": "ICS",
+        "major": "Computer Science",
         "boot os": "OSX",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
+        "de-noobification": False,
+        "astro": False,
         "game": True,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "Configuration Management"
         },
     "muku42": {
         "major": "Astronomy",
@@ -60,8 +60,8 @@ profiles = {
         "ask me about": "things you've used your raspberry pi for"
         },
     "mkb0517": {
-        "major": "CS"
-        "boot os": "Linux Mint"
+        "major": "CS",
+        "boot os": "Linux Mint",
         "virtual os": None,
         "text editor": "Vim",
         "de-noobification": False,
@@ -72,16 +72,16 @@ profiles = {
         "ask me about": "Magic: the Gathering, sciency things, py-game (in about a month), dual-booting windows and linux, anything really"
         },
     "achang6": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "Chemistry",
+        "boot os": "Ubuntu",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
+        "de-noobification": False,
+        "astro": False,
         "game": True,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "General Chemistry"
         },
     "dchilds7": {
         "major": "ICS",
@@ -96,28 +96,28 @@ profiles = {
         "ask me about": "social network analysis"
         },
     "tedsta": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "CS",
+        "boot os": "Ubuntu",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
-        "game": True,
+        "de-noobification": False,
+        "astro": False,
+        "game": False,
         "ninja skills": True,
         "web": True,
         "ask me about": "social network analysis"
         },
     "nynhle": {
-        "major": "ICS",
+        "major": "IS",
         "boot os": "OSX",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
+        "de-noobification": False,
         "astro": True,
         "game": True,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "Ask me, Im a pilot."
         },
     "klaguana": {
         "major": "astronomy",
@@ -144,40 +144,40 @@ profiles = {
         "ask me about": "Ending the Fed"
         },
     "nagatak": {
-        "major": "ICS",
+        "major": "CS",
         "boot os": "OSX",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
-        "game": True,
+        "de-noobification": False,
+        "astro": False,
+        "game": False,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "iOS app working on"
         },
     "cpearring": {
-        "major": "ICS",
-        "boot os": "OSX",
+        "major": "computer science",
+        "boot os": "Ubuntu",
         "virtual os": None,
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
-        "game": True,
+        "de-noobification": False,
+        "astro": False,
+        "game": False,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "The geopolitical instability of the Middle East"
         },
     "joshrobo": {
-        "major": "ICS",
-        "boot os": "OSX",
-        "virtual os": None,
+        "major": "cs",
+        "boot os": "windows 10",
+        "virtual os": "ubuntu",
         "text editor": "Vim",
-        "de-noobification": True,
-        "astro": True,
+        "de-noobification": False,
+        "astro": False,
         "game": True,
         "ninja skills": True,
         "web": True,
-        "ask me about": "social network analysis"
+        "ask me about": "soccer"
         },
     "RoyGBivDash": {
         "major": "Astronomy and Physics",
@@ -251,7 +251,7 @@ profiles = {
         "web": True,
         "ask me about": "social network analysis"
         },
-    "shenuhcide"{
+    "shenuhcide": {
         "major": "ICS",
         "boot os": "OSX",
         "virtual os": None,
